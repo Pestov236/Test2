@@ -1,0 +1,10 @@
+C:\!Disk\VisualStudio\Checkers2\Checkers2\bin\Debug\Checkers2.exe.config
+C:\!Disk\VisualStudio\Checkers2\Checkers2\bin\Debug\Checkers2.exe
+C:\!Disk\VisualStudio\Checkers2\Checkers2\bin\Debug\Checkers2.pdb
+C:\!Disk\VisualStudio\Checkers2\Checkers2\obj\Debug\Checkers2.csproj.AssemblyReference.cache
+C:\!Disk\VisualStudio\Checkers2\Checkers2\obj\Debug\Checkers2.Form1.resources
+C:\!Disk\VisualStudio\Checkers2\Checkers2\obj\Debug\Checkers2.Properties.Resources.resources
+C:\!Disk\VisualStudio\Checkers2\Checkers2\obj\Debug\Checkers2.csproj.GenerateResource.cache
+C:\!Disk\VisualStudio\Checkers2\Checkers2\obj\Debug\Checkers2.csproj.CoreCompileInputs.cache
+C:\!Disk\VisualStudio\Checkers2\Checkers2\obj\Debug\Checkers2.exe
+C:\!Disk\VisualStudio\Checkers2\Checkers2\obj\Debug\Checkers2.pdb
